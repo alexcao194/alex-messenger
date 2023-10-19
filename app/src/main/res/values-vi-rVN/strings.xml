@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="splash">Bắn tung tóe</string>
+    <string name="had_a_account">Đã có tài khoản? Đăng nhập</string>
+    <string name="login">Đăng nhập</string>
+    <string name="policies_and_terms">Tôi đồng ý với các chính sách và điều khoản</string>
+    <string name="registry">Đăng ký</string>
+    <string name="full_name">Họ và tên <font color='#FF0000'>*</font></string>
+    <string name="email">Email <font color='#FF0000'>*</font></string>
+    <string name="password">Mật khẩu <font color='#FF0000'>*</font></string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="dont_have_an_account">Chưa có tài khoản? Đăng ký</string>
+    <string name="policies">chính sách</string>
+    <string name="terms">điều khoản</string>
+    <string name="messages">Tin nhắn</string>
+    <string name="friends">Bạn bè</string>
+    <string name="profile">Trang cá nhân</string>
+    <string name="name_demo">Cow Zịt Duck</string>
+    <string name="message_demo">Tin nhắn tạm thời</string>
+    <string name="time_demo">12:00</string>
+    <string name="search_messages">Tìm kiếm tin nhắn…</string>
+    <string name="search_friends">Tìm kiếm bạn bè…</string>
+    <string name="add_friend">Thêm bạn</string>
+    <string name="email_demo">alexcao194@gmail.com</string>
+    <string name="languages">Ngôn ngữ</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="version">Phiên bản</string>
+    <string name="all">Tất cả</string>
+    <string name="edit_profile">Sửa trang cá nhân</string>
+    <string name="request">Yêu cầu</string>
+    <string name="version_demo">1.0.0</string>
+    <string name="notifications">Thông báo</string>
+    <string name="save">Lưu</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="sign_up_successfully">Đăng kí thành công, vui lòng kiểm tra email của bạn</string>
+    <string name="email_already_exists">Tải khoản đã tồn tại</string>
+    <string name="email_or_password_is_empty">Email và mật khẩu không được trống</string>
+    <string name="email_or_password_is_incorrect">Email hoặc mật khẩu không đúng</string>
+    <string name="no_internet_connection">Không có kết nối mạng</string>
+    <string name="email_is_empty">Email không được trống</string>
+    <string name="email_is_invalid">Email không hợp lệ</string>
+    <string name="name_is_empty">Tên không được trống</string>
+    <string name="password_is_empty">Mật khẩu không được để trống</string>
+    <string name="password_is_to_weak">Mật khẩu quá yếu</string>
+    <string name="ok">Ok</string>
+    <string name="enter_message">Nhập tin nhắn…</string>
+    <string name="accept">Chấp nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="a">a</string>
+    <string name="friend_request">Lời mời kết bạn</string>
+    <string name="friend_added">Đã gửi kết bạn</string>
+    <string name="there_is_no_result">Không tìm thấy kết quả phù hợp</string>
+    <string name="friend_request_sent">Đã gửi lời mời kết bạn</string>
+    <string name="friend_request_accepted">Đã chấp nhận lời mời kết bạn</string>
+    <string name="friend_request_canceled">Đã hủy lời mời kết bạn</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="phone_number_is_empty">Số điện thoại không được trống</string>
+    <string name="password_is_incorrect">Mật khẩu không đúng</string>
+    <string name="email_is_not_registered">Email chưa được đăng kí</string>
+    <string name="take_a_photo">Chụp ảnh từ Camera</string>
+    <string name="choose_from_gallery">Chọn ảnh từ thư viện</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="change_language_toast">Vui lòng khởi động lại để hoàn tất thay đổi</string>
+    <string name="yesterday">Hôm qua</string>
+    <string name="today">Hôm nay</string>
+    <string name="same_minute">empty</string>
+    <string name="sent_a_photo">đã gửi một ảnh</string>
+    <string name="sent_an_emoji">đã gửi một emoji</string>
+    <string name="you">Bạn</string>
+    <string name="phone_number_is_invalid">Số điện thoại không hợp lệ</string>
+    <string name="messages_matched">tin nhắn trùng khớp</string>
+    <string name="not_friend">Chưa phải bạn bè</string>
+</resources>
